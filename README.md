@@ -1,6 +1,6 @@
 \\\\\\At ChatBoard_dir directory, start and adjust virtual environment
 ```bash
-python -m venv venvCB
+python -m venv venv
 venvCB\scripts\activate
 cd .\ChatBoard\ 
 pip install -r requirements.txt
